@@ -2,6 +2,8 @@
 
 A modern, minimalist Pomodoro Timer web application with ambient audio features and a clean, distraction-free interface.
 
+<img src="images/Screenshot.png" alt="Pomodoro Timer Screenshot" width="600">
+
 ## Features
 
 ### Core Functionality
